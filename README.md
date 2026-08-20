@@ -25,3 +25,4 @@ Este proyecto es una tarjeta de perfil simple hecha con **HTML y CSS**. Muestra 
 - Estilo limpio y moderno
 
 - Github - pags
+- https://wendelkll.github.io/perfil-card/
